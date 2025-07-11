@@ -105,3 +105,28 @@ section li{
 label{
     display: inline-block;
 }
+.what-titel{
+    text-align: center;
+  font-size: ;
+
+}
+.what{
+    margin-top: 20px;
+    border: 50px:
+    border-radius: 50px;
+
+
+}
+.box{
+    margin: 25px;
+    grid-area: 24px;
+}
+.ster{
+    width: 2px;
+}
+.main-tay{
+   margin-top: 200px 151px auto 151px;
+   justify-content: center;
+   border-radius: 20px;
+   border: 200px solid rgb(157, 243, 242);
+}
